@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1443ef6807436954489a5fcf95336ed8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rigidbody2D: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - BloodEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

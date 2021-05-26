@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 923d685e3fba00043b6d1cefedb5002c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - preyEffect: {fileID: 295807262817172238, guid: 30ee1a2bc2729db4c942fded1b6cc06f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - EnemyCore
+  - PlayerAttack
+  - PlayerMouth
+  - EnemyAttack
+  - PlayerCore
+  - EnemySense
+  - PlayerAttackException
+  - ReferenceObject
+  - NonDestructiveObject
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Item
+  - 
+  - ReferenceObject
+  - 
+  - Player
+  - PlayerAttack
+  - PlayerCore
+  - PlayerAttackException
+  - 
+  - 
+  - 
+  - 
+  - 
+  - NonDestructiveObject
+  - Enemy
+  - EnemyAttack
+  - EnemyCore
+  - 
+  - 
+  - 
+  - CreateEnemy
+  - EnemyVisible
+  - EnemyRecognize
+  - EnemyPersonal
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2901530283
+    locked: 0
+  - name: AttackEffect
+    uniqueID: 930571343
+    locked: 0
+  - name: AttackEffectParticle
+    uniqueID: 262295555
+    locked: 0
