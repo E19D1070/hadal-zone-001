@@ -3,6 +3,7 @@ using UnityEngine.EventSystems;
 
 //マウスカーソルが触れているか触れていないか＋クリックがされたかを判定するクラス
 //ボタンにこのクラスを使用して、Appearanceの方に値を渡す。
+//メインメニューのボタンに使用し、「探索」や「知識」を開いたりする。
 
 public class MainMenuButton : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler {
 
