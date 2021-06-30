@@ -29,8 +29,11 @@ class PlayerManager : SeaCreature
     void Start()
     {
         creaturetype = "TypePlayer";
-        hp = maxhp;
-        HPCheck = maxhp;
+
+        if (hp == 0) {      //シーンを切り替えた時に自身のHPがMAXになってしまうのでIfで防止
+            hp = maxhp;
+            HPCheck = maxhp;
+        }
 
         Prey = transform.Find("PlayerPreyMouth");
         PreyMouth = Prey.GetComponent<Prey>();
